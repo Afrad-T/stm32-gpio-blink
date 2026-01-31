@@ -1,0 +1,15 @@
+# Build output
+Debug/
+Release/
+
+# CubeIDE metadata
+.settings/
+*.launch
+
+# IDE files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
